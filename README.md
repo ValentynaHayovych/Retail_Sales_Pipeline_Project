@@ -1,12 +1,12 @@
 # Retail Sales Pipeline Project
 
 ## Overview
-Cleaned and transformed raw data to analyze retail sales patterns
+Cleaned and transformed raw data to analyze retail sales patterns and uncover actionable insights.
 
 ## Tools
 - Python (Pandas)
 - BigQuery (SQL)
-- Looker Studio (visualization)
+- Looker Studio (Visualization)
 
 ## Features
 - Cleaned and transformed .csv sales data
@@ -14,10 +14,10 @@ Cleaned and transformed raw data to analyze retail sales patterns
 - Identified areas for targeted improvement across countries, products and time periods
 
 ## Files
-- 'data/' - raw and cleaned data as .csv files
-- 'output/' - Looker Studio dashboards as .pdf files
-- 'scripts/' - scripts for data cleaning and analysis, incl. Python Automation as .py files
-- 'sql/' - SQL queries used in BigQuery as .sql files
+- **data/** - raw and cleaned datasets (.csv)
+- **output/** - Looker Studio dashboards exported as .pdf files
+- **scripts/** - Python scripts for data cleaning, transformation and automation (.py)
+- **sql/** - SQL queries used in BigQuery (.sql)
 
 ## Insights
 - Visualized year-over-year revenue growth by region
